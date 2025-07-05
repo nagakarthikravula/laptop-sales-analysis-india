@@ -10,4 +10,6 @@ Project 1: Laptop Sales Analysis in India.
 -> Explored the data
 -> Got the data distributions for every field with sql queries
 -> The data doesn't contain any Null values and Duplicates
-
+# Step-3:(Answering Stakeholer Questions)
+  
+  
