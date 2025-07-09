@@ -43,7 +43,7 @@ Ensured:
 -> Link to Dashboard
 ## 🖼️ Dashboard Preview
 
-[(Dashboard)](https://lookerstudio.google.com/reporting/your-report-id/page/xyz)
+[(Dashboard)](https://lookerstudio.google.com/u/0/reporting/46c0fefe-0ee4-40eb-9f82-a71ff22bd5f0/page/QWPQF)
 
 
   
