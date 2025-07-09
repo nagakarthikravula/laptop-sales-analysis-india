@@ -40,6 +40,9 @@ Include:
 Ensured:
     -> Consistent Color palette
     -> Structured Layout For Storytelling
+-> Link to Dashboard
+[](https://lookerstudio.google.com/reporting/46c0fefe-0ee4-40eb-9f82-a71ff22bd5f0)
+
   
 # **Key Insights** 
 
