@@ -4,6 +4,13 @@ Project 1: Laptop Sales Analysis in India.
 **Objective**
 To analyse laptop sales data in India to derive insights on customer demographics, brand performance, purchase behaviour, and satisfaction levels, and to identify business opportunities for strategic decision-making.
 
+# Tools used in this project
+-> Google Cloud Storage
+-> Bigquery
+-> Looker
+-> This project was implemented on GCP under a free trial account.
+Due to quota limits, the actual project is now deleted,
+but screenshots and full code are documented below.
 
 # Step-1:(Data Collection and Storing)
 -> Collected the laptop-sales-india dataset from kaggle and stored it in Google Bucket(laptop-sales-analysis-india)
